@@ -1,0 +1,15 @@
+p{
+width: 800px;
+height: 400px;;
+border-width: 10px;
+border-top: 15px dashed yellow;
+border-bottom: 10px solid red;
+border-left: 25px double green;
+border-right: 20px dotted black;
+background-image: url(../photos/cambg_6.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+
+
+}

@@ -1,0 +1,20 @@
+h1{
+color: darkcyan;
+font-family:sans-serif;
+font-size: 30px;
+font-weight: 900;
+word-spacing: 50px;
+letter-spacing: 20px;
+text-transform: uppercase;
+text-transform: lowercase;
+text-transform: capitalize;
+background-color: blueviolet;
+width: 800px;
+height: 200px;
+text-align: center;
+text-align: left;
+text-align: right;
+
+
+
+}

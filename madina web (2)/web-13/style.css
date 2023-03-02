@@ -1,0 +1,81 @@
+*{
+margin: 0;
+padding: 0;
+text-decoration: none;
+box-sizing: border-box;
+list-style: none;
+}
+h1{
+width: 500px;
+height: 70px;
+border: 10px solid red;
+margin: 100px 0 0 100px;
+border-radius: 20px;
+cursor: pointer;
+
+
+}
+h1:hover{
+width: 800px;
+height: 70px;
+margin: 100px 0 0 100p;
+border-radius: 20px;
+background-color: chartreuse;
+}
+h1:active{
+    width: 900px;
+    height: 80px;
+    margin: 100px 0 0 100px;
+    border-radius: 20px;
+    background-color:pink;
+    }
+h1:visited{
+    width: 100px;
+    height: 80px;
+    margin: 100px 0 0 100px;
+    border-radius: 20px;
+    background-color:black
+    
+}
+.img{
+width: 800px;
+height: 700px;
+border: 10px solid blue;
+/* background: linear-gradient(yellow),(green),(blue); */
+/* background-color: aquamarine; */
+background: linear-gradient(rgba(255, 255, 0, 0.415),rgba(0, 0, 255, 0.307),rgba(255, 0, 0, 0.249)), url(../photos/cambg_5.jpg) ;
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

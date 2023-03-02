@@ -1,0 +1,16 @@
+p{
+    width: 1000px;
+height: 800px;
+border-width: 5px;
+    border-style: dashed;
+    border-color:red ;
+    border: 10px solid pink;
+background-image: url(../photos/cambg_7.jpg);
+    background-repeat: no-repeat;
+    background-size:cover ;
+    background-position: center;
+    border-radius: 50px 200px;
+    }
+    
+
+    

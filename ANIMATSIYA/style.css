@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    height: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+
+}
+.navbar{
+    transition: 5s;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 10px double yellow;
+    background-color:red;
+    animation-name: madi;
+    animation-duration: 10s;
+    animation-direction: alternate;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-delay: 1s;
+    animation-fill-mode: backwards;
+    animation-play-state: running;
+    }
+    @keyframes madi{
+        0%{
+            width:0px;
+            height: 0px;
+        }
+        20%{
+            transform: translate(800px);
+            border-radius: 50%;
+        }
+        70%{
+            transform: rotate(500deg);
+            border-radius: 40px;
+        }
+        100%{
+            transform:scale(700deg);
+            border-radius: 40%;
+        }
+    }

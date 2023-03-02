@@ -1,0 +1,56 @@
+.container{
+width: 900px;
+height: 600px;
+border: 15px double red;
+margin: auto;
+display: flex;
+flex-direction: column;
+
+}
+
+.wrap{
+    width: 80px;
+    height: 80px;
+    border: 15px solid blue;
+}
+.wrap:first-of-type{
+overflow: hidden;
+overflow: auto;
+overflow: scroll;
+width: 400px;
+height: 60px;background-color: aqua;
+}
+.wrap:last-of-type{
+width: 400px;
+height: 60px;
+background-color: darkblue;
+}
+.wrap:nth-child(2){
+width: 400px;
+height: 60px;
+background-color:pink;
+overflow: hidden;
+overflow: auto;
+overflow: scroll;
+}
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

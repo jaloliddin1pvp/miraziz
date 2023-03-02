@@ -1,0 +1,532 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+header{
+    width: 100%;
+    margin-top: 30px;
+}
+header .navbar{
+    display: flex;
+    margin-left: 500px;
+     }
+     header .navbar ul li{
+        margin-left: 30px;
+     }
+   header .navbar ul li a:hover{
+    width: 60px;
+    height: 60px;
+    background-color:#FFA500;
+    padding: 10px 20px;
+    margin: 0 -20px 0 -20px;
+     }
+        header .nav img{
+            width: 100%;
+            height: 650px;
+            margin-top: 30px;
+        }
+        header .bar h1{
+            font-family: sans-serif;
+            font-size: 30px;
+            color: white;
+            margin-top:-500px ;
+            margin-left: 650px;
+            }
+            header .bar h2{
+              font-family:sans-serif;
+              font-size: 45px;
+              color: white;
+              margin-left: 500px;
+            }
+            header .bar p{
+                font-family: sans-serif;
+                font-size: 18px;
+                color: white;
+                margin-left: 500px;
+            }
+        header .gul button{
+            width: 173px;
+            height: 57px;
+            border: 3px solid white;
+            background-color: rgba(255, 255, 255, 0.003);
+            color: white;
+            font-size: 18px;
+            position: relative;
+            left: 700px;
+            margin-top: 30px;
+        }
+        section .guli{
+            position: relative;
+            top: 300px;
+            left: 500px;
+            font-family: sans-serif;
+            font-size: 30px;
+            color:#FFA500;
+            text-shadow: 0px 5px  5px black;
+        }
+        section span{
+       color: black;
+        } 
+        section .WRAP2{
+            width: 70%;
+            display: flex;
+            justify-content:space-around;
+            flex-wrap: wrap;
+            margin: auto;
+        }
+        section  .wrap{
+            width: 300px;
+            height: 300px;
+            border: 3px solid rgba(128, 128, 128, 0.451);
+            border-radius: 15px 15px ;
+            position: relative;
+            top: 350px;
+            position: relative;
+            left: 100px;
+        }
+        section .wrap img{
+            width: 230px;
+            height: 230px;
+        }
+        section .wrap h3{
+            font-family: sans-serif;
+            font-size: 15px;
+            position: relative;
+            left: 10PX;
+            top: 20px;
+        }
+        section  .daf{
+            width: 300px;
+            height: 300px;
+            border: 3px solid rgba(128, 128, 128, 0.451);
+            border-radius: 15px 15px ;
+            position: relative;
+            top: 350px;
+            left: 50px;
+        }
+        section .daf img{
+            width: 260px;
+            height: 240px;
+        }
+        section .daf h4{
+            font-family: sans-serif;
+            font-size: 15px;
+            position: relative;
+            left: 15px;
+            top: 20px;
+        }
+        section  .tar{
+            width: 300px;
+            height: 300px;
+            border: 3px solid rgba(128, 128, 128, 0.451);
+            border-radius: 15px 15px ;
+            position: relative;
+            top: 350px;
+            left: 5px;
+        }
+        section .tar img{
+            width: 260px;
+            height: 240px;
+        }
+        section .tar h5{
+            font-family: sans-serif;
+            font-size: 15px;
+            position: relative;
+            left: 15px;
+            top: 20px;
+        }
+        section  .kitob{
+            width: 300px;
+            height: 300px;
+            border: 3px solid rgba(128, 128, 128, 0.451);
+            border-radius: 15px 15px ;
+            position: relative;
+            top: 400px;
+            left: 100px;
+        }
+        section .kitob img{
+            width: 260px;
+            height: 240px;
+        }
+        section .kitob h5{
+            font-family: sans-serif;
+            font-size: 15px;
+            position: relative;
+            left: 15px;
+            top: 20px;
+        }
+        section  .gap{
+            width: 300px;
+            height: 300px;
+            border: 3px solid rgba(128, 128, 128, 0.451);
+            border-radius: 15px 15px ;
+            position: relative;
+            top: 400px;
+            left: 50px;
+        }
+        section .gap img{
+            width: 260px;
+            height: 240px;
+        }
+        section .gap h6{
+            font-family: sans-serif;
+            font-size: 15px;
+            position: relative;
+            left: 15px;
+            top: 20px;
+        }
+        section  .wrap2{
+            width: 300px;
+            height: 300px;
+            border: 3px solid rgba(128, 128, 128, 0.451);
+            border-radius: 15px 15px ;
+            position: relative;
+            top: 400px;
+            left:10px;
+        }
+        section .wrap2 img{
+            width: 260px;
+            height: 240px;
+        }
+        section .wrap2 h6{
+            font-family: sans-serif;
+            font-size: 15px;
+            position: relative;
+            left: 15px;
+            top: 20px;
+        }
+        section .guli2{
+            position: relative;
+            top: 430px;
+            left: 450px;
+            font-family: sans-serif;
+            font-size: 30px;
+            color:#FFA500;
+            text-shadow: 0px 5px  5px black;
+        }
+        section span{
+       color: black;
+        }
+        section  .lolo{
+            width: 300px;
+            height: 300px;
+            border: 3px solid rgba(128, 128, 128, 0.451);
+            border-radius: 15px 15px ;
+            position: relative;
+            top: 500px;
+            left:390px;
+        }
+        section .lolo img{
+            width: 260px;
+            height: 240px;
+        }
+        section .lolo h3{
+            font-family: sans-serif;
+            font-size: 15px;
+            position: relative;
+            left: 15px;
+            top: 20px;
+        }
+        section  .pepe{
+            width: 300px;
+            height: 300px;
+            border: 3px solid rgba(128, 128, 128, 0.451);
+            border-radius: 15px 15px ;
+            position: relative;
+            top: 200px;
+            left:750px;
+        }
+        section .pepe img{
+            width: 260px;
+            height: 240px;
+        }
+        section .pepe h4{
+            font-family: sans-serif;
+            font-size: 15px;
+            position: relative;
+            left: 15px;
+            top: 20px;
+        }
+        section  .mul{
+            width: 300px;
+            height: 300px;
+            border: 3px solid rgba(128, 128, 128, 0.451);
+            border-radius: 15px 15px ;
+            position: relative;
+            top: -100px;
+            left:1100px;
+        }
+        section .mul img{
+            width: 260px;
+            height: 240px;
+        }
+        section .pepe h5{
+            font-family: sans-serif;
+            font-size: 15px;
+            position: relative;
+            left: 15px;
+            top: 20px;
+        }
+        section  .tik{
+            width: 300px;
+            height: 300px;
+            border: 3px solid rgba(128, 128, 128, 0.451);
+            border-radius: 15px 15px ;
+            position: relative;
+            top: -50px;
+            left:390px;
+        }
+        section .tik img{
+            width: 260px;
+            height: 240px;
+        }
+        section .tik h5{
+            font-family: sans-serif;
+            font-size: 15px;
+            position: relative;
+            left: 15px;
+            top: 20px;
+        }
+        section  .maket{
+            width: 300px;
+            height: 300px;
+            border: 3px solid rgba(128, 128, 128, 0.451);
+            border-radius: 15px 15px ;
+            position: relative;
+            top: -350px;
+            left:750px;
+        }
+        section .maket img{
+            width: 260px;
+            height: 240px;
+        }
+        section .maket h4{
+            font-family: sans-serif;
+            font-size: 15px;
+            position: relative;
+            left: 15px;
+            top: 20px;
+        }
+        section  .madi{
+            width: 300px;
+            height: 300px;
+            border: 3px solid rgba(128, 128, 128, 0.451);
+            border-radius: 15px 15px ;
+            position: relative;
+            top: -650px;
+            left:1100px;
+        }
+        section .madi img{
+            width: 260px;
+            height: 240px;
+        }
+        section .madi h3{
+            font-family: sans-serif;
+            font-size: 15px;
+            position: relative;
+            left: 15px;
+            top: 20px;
+        }
+        section .guli3{
+            position: relative;
+            top: -580px;
+            left: 450px;
+            font-family: sans-serif;
+            font-size: 30px;
+            color:#FFA500;
+            text-shadow: 0px 5px  5px black;
+        }
+        section span{
+       color: black;
+        }
+        section  .madi2{
+            width: 300px;
+            height: 300px;
+            border: 3px solid rgba(128, 128, 128, 0.451);
+            border-radius: 15px 15px ;
+            position: relative;
+            top: -550px;
+            left:390px;
+        }
+        section .madi2 img{
+            width: 260px;
+            height: 240px;
+        }
+        section .madi2 h3{
+            font-family: sans-serif;
+            font-size: 15px;
+            position: relative;
+            left: 15px;
+            top: 20px;
+        }
+        section  .madi3{
+            width: 300px;
+            height: 300px;
+            border: 3px solid rgba(128, 128, 128, 0.451);
+            border-radius: 15px 15px ;
+            position: relative;
+            top: -850px;
+            left: 750px;
+        }
+        section .madi3 img{
+            width: 260px;
+            height: 240px;
+        }
+        section .madi3 h4{
+            font-family: sans-serif;
+            font-size: 15px;
+            position: relative;
+            left: 15px;
+            top: 20px;
+        }
+        section  .madi4{
+            width: 300px;
+            height: 300px;
+            border: 3px solid rgba(128, 128, 128, 0.451);
+            border-radius: 15px 15px ;
+            position: relative;
+            top: -1150px;
+            left: 1100px;
+        }
+        section .madi4 img{
+            width: 260px;
+            height: 240px;
+        }
+        section .madi4 h5{
+            font-family: sans-serif;
+            font-size: 15px;
+            position: relative;
+            left: 15px;
+            top: 20px;
+        }
+        section  .madi5{
+            width: 300px;
+            height: 300px;
+            border: 3px solid rgba(128, 128, 128, 0.451);
+            border-radius: 15px 15px ;
+            position: relative;
+            top:-1100px;
+            left: 390px;
+        }
+        section .madi5 img{
+            width: 260px;
+            height: 240px;
+        }
+        section .madi5 h6{
+            font-family: sans-serif;
+            font-size: 15px;
+            position: relative;
+            left: 15px;
+            top: 20px;
+        }
+        section  .madi6{
+            width: 300px;
+            height: 300px;
+            border: 3px solid rgba(128, 128, 128, 0.451);
+            border-radius: 15px 15px ;
+            position: relative;
+            top: -1400px;
+            left: 750px;
+        }
+        section .madi6 img{
+            width: 260px;
+            height: 240px;
+        }
+        section .madi6 h3{
+            font-family: sans-serif;
+            font-size: 15px;
+            position: relative;
+            left: 15px;
+            top: 20px;
+        }
+        section  .madi7{
+            width: 300px;
+            height: 300px;
+            border: 3px solid rgba(128, 128, 128, 0.451);
+            border-radius: 15px 15px ;
+            position: relative;
+            top: -1700px;
+            left: 1100px;
+        }
+        section .madi7 img{
+            width: 260px;
+            height: 240px;
+        }
+        section .madi7 h3{
+            font-family: sans-serif;
+            font-size: 15px;
+            position: relative;
+            left: 15px;
+            top: 20px;
+        }
+        /* footer start */
+        footer h2{
+       position: relative;
+       top: -1600px;
+       left: 510px;
+       /* text-align: center; */
+       font-family: sans-serif;
+       font-size: 50px;
+       color:#FFA500;
+       text-shadow: 0px 5px  5px black;
+       }
+       footer span{
+        color: black;
+       }
+       footer .not_1{
+        margin-top: 80px;
+        display: flex;
+    
+       
+       }
+      footer .not{
+        position: relative;
+        bottom:1600px;
+        left: 200px;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        margin-left: 30px;
+      }
+       footer .not img{
+        margin-top: 40px;
+        width: 100px;
+        height: 100px;
+    }
+    footer h1{
+        font-size: 28px ;
+        font-family: sans-serif;
+        font-weight: 700; 
+    }
+    footer p{
+        font-size: 15px ;
+        font-family: sans-serif;
+        font-weight: 400; 
+        line-height: 20px;
+    }
+    footer .not{
+        width: 300px;
+        height: 500px;
+        border: 3px solid rgba(128, 128, 128, 0.451);
+        border-radius: 15px 15px;
+        position: relative;
+        left: 350px;
+    }
+       footer .car h3{
+        position: relative;
+        top: -1500px;
+        left: 500px;
+        font-family: sans-serif;
+        font-size: 40px;
+        color:#FFA500;
+        text-shadow: 0px 5px  5px black;
+       }
+       footer .form{
+        width: 100%;
+        height: 100px;
+        background-color: yellow;
+        margin-top: -1450px;
+       }

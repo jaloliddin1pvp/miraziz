@@ -1,0 +1,17 @@
+button{
+width: 400px;
+height: 400px;
+border-width: 20px;
+border-style: dashed;
+border-color: aqua;
+border:20px dashed aqua;
+border-top: 5px solid red;
+border-bottom: 10px double yellow;
+border-left: 20px solid black;
+border-right: 25px dotted pink;
+border-radius: 15px 25px 50px 25px;
+
+border-radius: 50%;
+
+
+}

@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+.fa-brands{
+    width: 250px;
+    height: 250px;
+    font-size: 200px;
+    color: aqua;
+    background-color:rgb(229, 16, 16);
+   border-radius: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+}

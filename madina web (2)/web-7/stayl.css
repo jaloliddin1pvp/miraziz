@@ -1,0 +1,18 @@
+p{
+    width: 500px;
+    height: 600px;
+    /* border-width: 10px;chegara qalinligi */
+    /* border-style:solid; chegara turi */
+    /* border-color: red;  chegara rangi */
+    border: 10px solid red; /*  hammasini birlashtirib yozish */
+    border-top: 5px dashed yellow; /* yuqori qismi */
+    border-bottom: 15px double black; /*  paski qismi */
+    border-left: 30px solid red; /*chap qismi  */
+    border-right: 25px double green; /* o'ng qismi  */
+    border-radius: 15px 20px 30px 40px; /* burchaklarini burib bereadi  */
+/*  */
+
+}
+h1{
+    color: aqua;
+}

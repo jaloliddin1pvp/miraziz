@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    margin-left:50px;
+    margin-top: 30px;
+}
+header .nav{
+    display: flex;
+}
+header .nav ul li{
+    margin-right: 50px;
+}
+header .nav ul li a{
+    color: black;
+}
+header .nav ul li a:hover{
+    color: aqua;
+}
+section{
+    width: 100%;
+    display: flex;
+}
+section .daftar{
+    width: 60%;
+    height: 650px;
+    background-color: rgba(128, 128, 128, 0.196);
+    padding-top: 70px;
+    padding-left: 50px;
+    color: gray;
+}
+section .cat img{
+    width: 700px;
+    height: 700px;
+
+}
+section .daftar h1{
+    font-size: 30px;
+    color: black;
+}
+.text{
+    width: 53%;
+    display: flex;
+    justify-content: space-between;
+}
+.text .cow1{
+    display: flex;
+
+}
+.text .cow1 h6{
+    font-size: 20px;
+    padding-left: 20px;
+}.text .cow1 img{
+    padding-left:70px ;
+}
+footer{
+    width: 100%;
+    height: 350px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 60px;
+}
+footer .home h2{
+    font-size: 30px;
+}
+footer .home{
+    margin-top: 100px;
+}
+footer .home b{
+    font-size: 20px;
+    
+}
+footer .uy{
+    margin-top: 130px;
+}
+footer .madi{
+    width: 20%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 130px;
+}
